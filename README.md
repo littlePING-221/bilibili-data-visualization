@@ -12,23 +12,23 @@
 
 带有时间轴的总量柱状图功能如下
 
-![image-20220303163016766](.\readme_image\image-20220303163016766.png)
+<img src="readme_image/image-20220303163016766.png" alt="image-20220303163016766" style="width:60%;" />
 
 ### 带有时间轴的归一化柱状图
 
 带有时间轴的归一化柱状图功能如下
 
-![image-20220303162943345](.\readme_image\image-20220303162943345.png)
+<img src="readme_image/image-20220303162943345.png" alt="image-20220303162943345" style="width:60%;" />
 
 ### 多维度可筛选散点图
 
 多维度可筛选散点图功能如下
 
-![image-20220303162727986](.\readme_image\image-20220303162727986.png)
+<img src="readme_image/image-20220303162727986.png" alt="image-20220303162727986" style="width:60%;" />
 
 鼠标悬浮在某个数据点上会弹出该视频的详细信息，包括数据坐标、视频标题、视频封面、视频排名等，鼠标点击该数据点会自动跳转到 B 站的这条视频的页面。
 
-![image-20220303162625362](.\readme_image\image-20220303162625362.png)
+<img src="readme_image/image-20220303162625362.png" alt="image-20220303162625362" style="width:60%;" />
 
 ## 技术实现
 
